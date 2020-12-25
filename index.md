@@ -1,30 +1,29 @@
 
-### Anahita Taheri
+### Ali Norouzpour 
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Ali
++ last name : Norouzpour 
++ Date of birth : 1997/February/05
++ I am a engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
-
++ sql server 
++ icdl
++ cracker 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ bachelor : Computer Engineering
+_ payam Noor Malard University
 
 ### language
 
@@ -35,15 +34,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ to sleep 
++ Studying books
 + travel 
-+ playing volleyball
++ playing football 
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am student.
 
 
 
