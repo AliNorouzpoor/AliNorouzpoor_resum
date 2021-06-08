@@ -1,14 +1,13 @@
 
-### Ali Norouzpour 
+### Ali Norouzi
 
 
 ### Personal informations
 
 ---
 + name: Ali
-+ last name : Norouzpour 
++ last name : Norouzi 
 + Date of birth : 1997/February/05
-+ I am a engineering student
 + location : Tehran , I.R.Iran
 
 
@@ -18,6 +17,7 @@
 + sql server 
 + icdl
 + cracker 
++ Java Script 
 
 ### Education
 
