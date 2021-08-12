@@ -5,10 +5,11 @@
 ### Personal informations
 
 ---
-+ name: Ali
-+ last name : Norouzpour 
-+ Date of birth : 1997/February/05
-+ location : Tehran , I.R.Iran
++ Name: Ali
++ Last Name : Norouzpour 
++ Date Of Birth : 1997/February/05
++ Computer Engineering Student
++ Location : Tehran , I.R.Iran
 
 
 
@@ -19,18 +20,18 @@
 ### Skill Highlights
 
 ---
-+ sql server 
++ SQL Server 
 + icdl
-+ cracker 
++ Cracker 
 + Java Script 
 
 ### Education
 
 ---
-+ bachelor : Computer Engineering
-_ payam Noor Malard University
++ Bachelor : Computer Engineering
+_ Payam Noor Malard University
 
-### language
+### Language
 
 ---
 + Persian
@@ -39,15 +40,15 @@ _ payam Noor Malard University
 ### Favorites
 
 ---
-+ to sleep 
-+ Studying books
-+ travel 
-+ playing football 
++ To Sleep 
++ Studying Books
++ Travel 
++ Playing Football 
 
-### working Experience
+### Working Experience
 
 ---
-+ I am student.
++ I am Student.
 
 
 
