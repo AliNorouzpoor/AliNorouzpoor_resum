@@ -28,8 +28,7 @@
 ### Education
 
 ---
-+ Bachelor : Computer Engineering
-_ Payam Noor Malard University
++ Bachelor : Computer Engineering - Payam Noor Malard University
 
 ### Language
 
